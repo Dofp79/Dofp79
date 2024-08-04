@@ -1,16 +1,37 @@
-- 👋 Hi, I'm @Dofp79
-- 👀 I'm interested in cloud technology, intelligent process automation as well as data analytics.
-- 🌱 I'm currently learning ASP.NET 6.
-- 💞️ I am looking to collaborate on projects and gain more knowledge.
-- 🐱‍🏍 I am currently working in the following areas:
-   - Development of a software audit tool as an IT service management (ITSM) solution using PowerShell scripting and data warehousing. This project will provide me with a deep insight into 
-     effective software license auditing and control, allowing me to apply my knowledge of UML analysis and design, as well as project management within the SCRUM methodology.
-   - Organizing ITIL events to enhance the professional qualification and efficiency of the employees in the IT department where I am currently working.
-   - Active involvement in the development of a web application using ASP.NET technology, following the principles of object-oriented programming (OOP), including the implementation of CRUD 
-     operations and AJAX functionalities. Moreover, I am responsible for data storage and management using T-SQL. 
-- 📫 dofp79@hotmail.com
+Hi there! 👋
 
-<!---
-Dofp79/Dofp79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Doniman Francisco Peña Parra, an expert in IT and application development with a strong background in process management and innovation. Currently residing in Hamburg, Germany, I am seeking opportunities to collaborate and contribute to interesting projects.
+
+🚀 About Me:
+
+    💼 Process and IT Management: I currently work as a process manager, where I analyze and create operational level agreements and operational procedure manuals. I also manage software licenses and provide consulting on topics of my expertise. In addition, I am developing a document reading system using Python on a Linux operating system with Apache Solr, and I do this by coordinating a team of interns in a mentoring role and supervising their tasks to ensure effective collaboration and learning.
+    🎓 Background in Application Development and IT Management.
+    🌱 I am currently expanding my knowledge in Artificial Intelligence, Productivity and automation.
+    👯 Open to collaborating on open-source projects and sharing knowledge with the community.
+
+🌟 Skills:
+
+    Programming Languages: C#, Java, C++, T-SQL, Python.
+    Frameworks and Libraries: .NET, Flask, PyPDF2, PySimpleGui.
+    Tools and Platforms: Microsoft Azure, Jira, Git.
+
+📈 Certifications and Courses:
+
+    ITIL® Foundation Certificate in IT Service Management
+    Microsoft Azure Fundamentals
+    Data Science, ML & AI with Python
+    EXIN Agile Scrum Master
+    HKBis apprentice trainer course
+
+🚀 Goals and Objectives:
+
+    Continue improving my skills in AI and ML.
+    Participate in hackathons and tech events.
+    Contribute to open-source projects and support other developers through mentorship.
+
+🌐 Contact:
+
+    📫 Email: dofp79@hotmail.com
+    📍 Location: Hamburg, Germany
+
+Thank you for visiting my profile! I am excited to connect with other developers and tech professionals. See you in the coding world! ✨
