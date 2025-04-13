@@ -1,37 +1,64 @@
-Hi there! 👋
+# Hi there! I'm Doniman Francisco Peña Parra
 
-I'm Doniman Francisco Peña Parra, an expert in IT and application development with a strong background in process management and innovation. Currently residing in Hamburg, Germany, I am seeking opportunities to collaborate and contribute to interesting projects.
+I'm an **Application Developer** with a passion for modern technologies, clean software architecture, and meaningful process optimization.  
+My focus is on **Python, data processing & analysis, API development, Artificial Intelligence (AI)** and the **ITIL® Management Framework**.
 
-🚀 About Me:
+---
 
-    💼 Process and IT Management: I currently work as a process manager, where I analyze and create operational level agreements and operational procedure manuals. I also manage software licenses and provide consulting on topics of my expertise. In addition, I am developing a document reading system using Python on a Linux operating system with Apache Solr, and I do this by coordinating a team of interns in a mentoring role and supervising their tasks to ensure effective collaboration and learning.
-    🎓 Background in Application Development and IT Management.
-    🌱 I am currently expanding my knowledge in Artificial Intelligence, Productivity and automation.
-    👯 Open to collaborating on open-source projects and sharing knowledge with the community.
+## 🚀 About Me
 
-🌟 Skills:
+I am currently working in process management, focusing on analyzing and creating dashboards within the ITIL v4 framework to optimize service agreements and operational procedures across the organization. My role involves developing structured concepts and procedural manuals, managing software license processes, and offering strategic guidance to ensure both compliance and efficiency.
 
-    Programming Languages: C#, Java, C++, T-SQL, Python.
-    Frameworks and Libraries: .NET, Flask, PyPDF2, PySimpleGui.
-    Tools and Platforms: Microsoft Azure, Jira, Git.
+Alongside this, I am building a document reading and data extraction system using Python, deployed in a Linux environment and integrated with Apache Solr. The project began by leading and mentoring a team of interns, coordinating their work and supporting their growth to ensure productive collaboration.
 
-📈 Certifications and Courses:
+To further support my responsibilities, I have expanded my knowledge in artificial intelligence with the aim of improving productivity and automating selected tasks. I am also enthusiastic about contributing to open-source projects and actively sharing knowledge with the broader tech community.
 
-    ITIL® Foundation Certificate in IT Service Management
-    Microsoft Azure Fundamentals
-    Data Science, ML & AI with Python
-    EXIN Agile Scrum Master
-    HKBis apprentice trainer course
+---
 
-🚀 Goals and Objectives:
+My day-to-day is a mix of:
+- Process documentation & automation
+- IT service improvement based on ITIL® principles
+- Application development (C#, Python, SQL, .NET)
+- AI experimentation and continuous learning
 
-    Continue improving my skills in AI and ML.
-    Participate in hackathons and tech events.
-    Contribute to open-source projects and support other developers through mentorship.
+---
 
-🌐 Contact:
+## Skills
 
-    📫 Email: dofp79@hotmail.com
-    📍 Location: Hamburg, Germany
+**Programming Languages**  
+`Python` · `C#` · `Java` · `C++` · `T-SQL` · `DAX`
 
-Thank you for visiting my profile! I am excited to connect with other developers and tech professionals. See you in the coding world! ✨
+**Frameworks & Libraries**  
+`.NET` · `Flask` · `PyPDF2` · `PySimpleGUI`
+
+**Tools & Platforms**  
+`Microsoft Azure` · `Jira` · `Git` · `Apache Solr` · `Power BI`
+
+**Methodologies**  
+`ITIL®` · `Agile Scrum` · `Process Optimization` · `Mentoring & Team Building`
+
+---
+
+## Certifications & Courses
+
+- **ITIL® Foundation Certificate** (2024)
+- ☁Microsoft Azure Fundamentals
+- AI & Machine Learning with Python
+- EXIN Agile Scrum Master
+- Certified Vocational Trainer (IHK 2025)
+- Dozens of additional IT trainings and specializations
+
+---
+
+## Goals & Objectives
+
+- Dive deeper into **AI and Machine Learning**
+- Participate in **hackathons & tech events**
+- Contribute to **open-source projects**
+- Share knowledge with the community and mentor aspiring developers
+
+---
+
+## Let's Connect!
+
+- 📧 Email: dofp79@hotmail.com  
