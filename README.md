@@ -15,11 +15,8 @@ To further support my responsibilities, I have expanded my knowledge in artifici
 
 ---
 
-My day-to-day is a mix of:
-- Process documentation & automation
-- IT service improvement based on ITIL® principles
-- Application development (C#, Python, SQL, .NET)
-- AI experimentation and continuous learning
+My daily work focuses on designing data-driven reports and developing interactive dashboards using Power BI, including the creation of robust DAX measures and KPIs.
+In addition, I work on process documentation and automation, continuous improvement of IT services based on ITIL® principles, application development (C#, Python, SQL, .NET, HTML, CSS, JavaScript), and ongoing exploration of AI technologies and productivity tools.
 
 ---
 
