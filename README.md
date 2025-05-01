@@ -16,20 +16,20 @@ To further support my responsibilities, I have expanded my knowledge in artifici
 ---
 
 My daily work focuses on designing data-driven reports and developing interactive dashboards using Power BI, including the creation of robust DAX measures and KPIs.
-In addition, I work on process documentation and automation, continuous improvement of IT services based on ITIL® principles, application development (C#, Python, SQL, .NET, HTML, CSS, JavaScript), and ongoing exploration of AI technologies and productivity tools.
+In addition, I work on process documentation and automation, continuous improvement of IT services based on ITIL® principles, application development (C#, Python, SQL, .NET, HTML, CSS, JavaScript, PowerShell), and ongoing exploration of AI technologies and productivity tools.
 
 ---
 
 ## Skills
 
 **Programming Languages**  
-`Python` · `C#` · `Java` · `C++` · `T-SQL` · `DAX`
+`Python` · `C#` · `Java` · `C++` · `T-SQL` · `DAX`. `PowerShell`. `JavaScript`
 
 **Frameworks & Libraries**  
 `.NET` · `Flask` · `PyPDF2` · `PySimpleGUI`
 
 **Tools & Platforms**  
-`Microsoft Azure` · `Jira` · `Git` · `Apache Solr` · `Power BI`
+`Power BI` · `Jira` · `Git` · `Apache Solr`
 
 **Methodologies**  
 `ITIL®` · `Agile Scrum` · `Process Optimization` · `Mentoring & Team Building`
