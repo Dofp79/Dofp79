@@ -54,8 +54,13 @@ In addition, I work on process documentation and automation, continuous improvem
 - Contribute to **open-source projects**
 - Share knowledge with the community and mentor aspiring developers
 
----
-
+________________________________________
 ## Let's Connect!
 
-- 📧 Email: dofp79@hotmail.com  
+Fragen oder Feedback?  
+**Doniman F. Peña Parra**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
+- ✉️ E-Mail: [dofp79@hotmail.com](mailto:dofp79@hotmail.com)
+
+________________________________________
