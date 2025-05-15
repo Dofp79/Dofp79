@@ -57,7 +57,6 @@ In addition, I work on process documentation and automation, continuous improvem
 ________________________________________
 ## Let's Connect!
 
-Fragen oder Feedback?  
 **Doniman F. Peña Parra**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
