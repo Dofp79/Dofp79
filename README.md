@@ -1,6 +1,6 @@
 # Hi there! I'm Doniman Francisco Peña Parra
 
-I'm an **Application Developer** with a passion for modern technologies, clean software architecture, and meaningful process optimization.  
+I'm an **Application Developer** with a passion for modern technologies, clean software architecture, and meaningful process optimization. 
 My focus is on **Python, data processing & analysis, API development, Artificial Intelligence (AI)** and the **ITIL® Management Framework**.
 
 --- 
