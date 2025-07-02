@@ -38,6 +38,8 @@ In addition, I work on process documentation and automation, continuous improvem
 
 ## Certifications & Courses
 
+- **Power BI Data Analyst (PL-300), New Elements GmbH** (2025)
+- **AEVO – Ausbildereignung (IHK), Handelskammer Hamburg** (2025)
 - **ITIL® Foundation Certificate** (2024)
 - ☁Microsoft Azure Fundamentals
 - AI & Machine Learning with Python
