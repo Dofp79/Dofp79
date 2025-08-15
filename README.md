@@ -9,6 +9,8 @@ My focus is on **Python, data processing & analysis, API development, Artificial
 
 I am currently working in process management, focusing on analyzing and creating dashboards within the ITIL v4 framework to optimize service agreements and operational procedures across the organization. My role involves developing structured concepts and procedural manuals, managing software license processes, and offering strategic guidance to ensure both compliance and efficiency.
 
+In addition, I apply UML (Unified Modeling Language) and BPMN (Business Process Model and Notation) to design, visualize, and standardize business and IT processes. These modeling techniques help bridge communication between stakeholders, ensure a shared understanding of workflows, and support the development of scalable, maintainable solutions. Through UML diagrams, I define system structures and interactions, while BPMN enables me to map out operational processes with clarity and precision, aligning them with organizational objectives.
+
 Alongside this, I am building a document reading and data extraction system using Python, deployed in a Linux environment and integrated with Apache Solr. The project began by leading and mentoring a team of interns, coordinating their work and supporting their growth to ensure productive collaboration.
 
 To further support my responsibilities, I have expanded my knowledge in artificial intelligence with the aim of improving productivity and automating selected tasks. I am also enthusiastic about contributing to open-source projects and actively sharing knowledge with the broader tech community.
